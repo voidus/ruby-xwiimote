@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Xwiimote::VERSION
   spec.authors       = ["Simon Kohlmeyer"]
   spec.email         = ["simon.kohlmeyer@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Simple wrapper around the xwiimote library}
+  spec.summary       = %q{Simple wrapper around the xwiimote library}
   spec.homepage      = ""
   spec.license       = "MIT"
 
