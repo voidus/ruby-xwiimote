@@ -4,10 +4,6 @@
 #include "ruby-xwiimote.h"
 #include <xwiimote.h>
 
-VALUE mXWiimote;
-
-VALUE mXWiiMote_EventTypes;
-
 /*
  * Document-module: XWiimote::EventTypes
  *
