@@ -1,3 +1,5 @@
+#include "event_types.h"
+
 #include "ruby.h"
 #include "ruby-xwiimote.h"
 #include <xwiimote.h>
